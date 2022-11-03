@@ -1,2 +1,1 @@
-first line
-line 2
+next modified line
