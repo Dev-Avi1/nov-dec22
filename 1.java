@@ -1,1 +1,1 @@
-next modified line
+next line 2 is modified
